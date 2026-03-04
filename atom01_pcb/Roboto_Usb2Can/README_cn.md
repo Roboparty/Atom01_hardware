@@ -52,7 +52,7 @@
 ![Flashing Ports](00_Docs/Images/interface_bottom.png)
 
 ### 烧录步骤：
-1. **固件下载：** 获取 [RoboParty-HubUsb2Can_1.00.bin](03_Firmware/RoboParty-HubUsb2Can_1.00.bin)。
+1. **固件下载：** 获取 [roboto_usb2can release](https://github.com/wentywenty/roboto_usb2can/releases)。
 2. **连接烧录器：** 接口定义从左至右依次为：`GND`, `3V3`, `CLK`, `DIO`。
 3. **顺序烧录：** 请依次对背面的 **4 个烧录口** 进行固件烧录（每个接口对应一路 CAN 控制芯片）。
 

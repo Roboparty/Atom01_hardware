@@ -52,7 +52,7 @@ There are 4 sets of SWD programming interfaces reserved on the back of the devic
 ![Flashing Ports](00_Docs/Images/interface_bottom.png)
 
 ### Flashing Steps:
-1.  **Download Firmware:** Get [RoboParty-HubUsb2Can_1.00.bin](03_Firmware/RoboParty-HubUsb2Can_1.00.bin).
+1.  **Download Firmware:** Get [roboto_usb2can release](https://github.com/wentywenty/roboto_usb2can/releases).
 2.  **Connect Programmer:** The pinout from left to right is: `GND`, `3V3`, `CLK`, `DIO`.
 3.  **Sequential Flashing:** Please flash the firmware to the **4 programming ports** on the back one by one (each port corresponds to one CAN control chip).
 
