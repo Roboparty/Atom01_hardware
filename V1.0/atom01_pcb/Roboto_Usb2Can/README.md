@@ -40,8 +40,8 @@ This repository contains all files required to manufacture and use this module:
 ### 2. Recommended Connection Topology
 For easier management, we recommend connecting the robot joints in the following order:
 
-- **CAN 1:** Left Leg (including Waist)
-- **CAN 2:** Right Leg
+- **CAN 1:** Left Leg 
+- **CAN 2:** Right Leg(including Waist)
 - **CAN 3:** Left Arm
 - **CAN 4:** Right Arm
 
